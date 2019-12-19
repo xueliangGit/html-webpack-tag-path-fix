@@ -1,0 +1,18 @@
+{
+  "name": "html-webpack-tag-path-fix",
+  "version": "1.0.0",
+  "description": "Fix the problem of static files when the `'publicpath'` is a relative path on the deep level page;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html-webpack",
+    "assets-path"
+  ],
+  "author": "xuxueliang",
+  "dependencies": {
+    "html-webpack-plugin": "^3.2.0"
+  },
+  "license": "ISC"
+}
