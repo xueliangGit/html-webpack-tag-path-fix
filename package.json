@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-tag-path-fix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fix the problem of static files when the `'publicpath'` is a relative path on the deep level page;",
   "main": "index.js",
   "scripts": {
