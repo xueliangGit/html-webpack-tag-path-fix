@@ -42,3 +42,17 @@ plugins: [
 ···
 
 ```
+
+> additional
+
+Support injection Code： injectCode
+
+```js
+new htmlWebpackTagPathFix({
+  injectCode: [String || Function]
+})
+```
+
+Default delivery string injection to `<div id=app></div>`Inside；
+
+To customize; just pass one`function`accept `html` And return `html`
