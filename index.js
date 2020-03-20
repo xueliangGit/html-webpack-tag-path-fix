@@ -2,7 +2,7 @@
  * @Author: xuxueliang
  * @Date: 2019-12-06 11:25:39
  * @LastEditors: xuxueliang
- * @LastEditTime: 2020-03-20 16:47:28
+ * @LastEditTime: 2020-03-20 16:53:57
  */
 let HtmlWebpackPlugin = require('html-webpack-plugin')
 function getPath (outputName) {
